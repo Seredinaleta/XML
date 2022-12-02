@@ -1,1 +1,17 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<Bug_report>
+ <Main> 
+   <ID>number</ID>
+   <Summary>Short text description jf the bug</Summary>
+   <STR>Steps to reproduce the bug</STR>
+   <ER>Estimated result of the test</ER>
+   <AR>Actual result of the test</AR>
+   <Severity>The degree of influence a defect has on the product's operation blocker/crititical/major/minor/trivial</Severity>
+  </Main>
+  <Additional>
+    <Priority>The order in which the defect should be fixed ASAP/high/medium/low</Priority>
+   <Environment>Conditions Device Type/OS/Browser/Software version/Connection Strength/Screen size/Zoom level/Pixel ratio etc</Environment>
+    <Visual Proof>Screenshots, videos, text, logs of Bug</Visual Proof>
+   </Additional>
+  <Reporter_Name>Your own</Reporter_Name>
+  <Status>SDLS status Opened/In Progress/Fixed or Ready for check/Reopened/Closed/Deffered/Rejected</Status>
